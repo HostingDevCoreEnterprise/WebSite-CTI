@@ -1,4 +1,4 @@
-# Calculatoare și Tehnologia Informației (CTI) - FMI Unibuc
+# Calculatoare și Tehnologia Informației (CTI) - FMI UNIBUC
 
 Acesta este codul sursă pentru platforma informativă dedicată programului de studii **Calculatoare și Tehnologia Informației (CTI)** din cadrul Facultății de Matematică și Informatică, Universitatea din București.
 
@@ -28,13 +28,13 @@ Proiectul este o aplicație web statică construită cu HTML, CSS și JavaScript
 ## Cum pot contribui?
 
 1. Fă fork acestui repository (dacă este găzduit pe GitHub).
-2. Clonează proiectul local: `git clone <link-repo>`.
+2. Clonează proiectul local: `git clone github.com/HostingDevCoreEnterprise/WebSite-CTI.git`.
 3. Deschide un fișier `.html` direct în browser pentru a vedea site-ul.
 4. Adaugă modificările necesare.
 5. Creează un Pull Request cu o descriere detaliată a modificărilor.
 
 ## Licență
-Acest proiect este deținut de către **DevCore Enterprise** și a fost dezvoltat pentru studenții Facultății de Matematică și Informatică (FMI Unibuc).
+Acest proiect este deținut de către **DevCore Enterprise** și a fost dezvoltat pentru studenții Facultății de Matematică și Informatică (FMI UB).
 Toate drepturile sunt rezervate.
 
 > **Important**: Pentru instrucțiuni privind publicarea (deployment) și setarea pe Google Search Console, vă rugăm să consultați fișierul `deployment.md`.
