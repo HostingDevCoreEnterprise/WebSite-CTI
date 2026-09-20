@@ -834,6 +834,8 @@ footer {
 .split-images img {
   flex: 1;
   min-width: 0;
+  width: 100%;
+  height: 100%;
   border-radius: 16px;
   border: 1px solid var(--glass-border);
   box-shadow: 0 10px 30px rgba(0,0,0,0.5);
@@ -901,6 +903,11 @@ footer {
   
   .split-images {
     flex-direction: column;
+  }
+  
+  .split-images img {
+    height: auto;
+    max-height: 250px;
   }
 }
 
