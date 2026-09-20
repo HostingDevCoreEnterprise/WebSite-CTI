@@ -835,6 +835,7 @@ footer {
   flex: 1;
   min-width: 0;
   width: 100%;
+  max-width: 100%;
   height: 100%;
   border-radius: 16px;
   border: 1px solid var(--glass-border);
@@ -898,7 +899,9 @@ footer {
   }
   
   .split-col, .split-images {
-    min-width: 100%;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
   }
   
   .split-images {
